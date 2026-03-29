@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hey, I'm Dave 👋
 
-<!--
-**akaDeyve/akaDeyve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ongoing Frontend-focused web & app developer with currently 2 years working experience and having fun turning ideas into interfaces, one project at a time.  
+I care deeply about UI and UX: things should look good **and** feel right.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend**
+HTML · CSS/SASS · JavaScript · React · React Native (Expo) · Twig
+
+**Backend & DB**
+Node.js · MariaDB · PHP *(basic)*
+
+**Environment & Tools**
+Drupal CMS · Kirby CMS · Vite · Git · Linux · Figma / AdobeXD *(implementation)*
+
+## 📌 Currently working on
+
+- Discord Analytics Bot with Webinterface
+- Refining React skills
+- Next.js
+- PostgreSQL
+
+## ⚡ Fun fact
+
+Comfortable working with AI tools — Claude Code, GitHub Copilot, local LLMs via Ollama, knowing when and how to use them.  
+Also: A cat person 🐱
