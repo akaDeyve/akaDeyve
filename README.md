@@ -15,9 +15,9 @@ Node.js · MariaDB · PHP *(basic)*
 Drupal CMS · Kirby CMS · Vite · Git · Linux · Figma / AdobeXD *(implementation)*
 
 ## Currently working on
-
-- Discord Analytics Bot with Webinterface
 - Refining React skills
+- Classic Notes App
+- Discord Analytics Bot with Webinterface
 - Next.js
 - PostgreSQL
 
