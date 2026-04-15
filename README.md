@@ -23,5 +23,5 @@ Drupal CMS · Kirby CMS · Vite · Git · Linux · Figma / AdobeXD *(implementat
 
 ## Fun fact
 
-Comfortable working with AI tools — Claude Code, GitHub Copilot, local LLMs via Ollama, knowing when and how to use them.  
+Comfortable working with AI tools like Claude Code, GitHub Copilot, local LLMs via Ollama, knowing when and how to use them.  
 Also: A cat person 🐱
