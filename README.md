@@ -56,5 +56,5 @@ Frontend developer with 2 years of professional experience, building websites an
 
 ## Fun facts
 
-- I work with AI tools like OpenCode and local LLMs. They're useful if you know their limits.
+- I use AI tools like OpenCode and local LLMs to speed up repetitive tasks while keeping the final decisions and code quality in my hands.
 - Cat person 🐱
