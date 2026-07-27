@@ -35,7 +35,6 @@ Frontend developer with 2 years of professional experience, building websites an
 
 ## Currently
 
-- Getting deeper into JavaScript
 - Working on a Discord analytics bot with a small web interface
 
 ## Fun facts
