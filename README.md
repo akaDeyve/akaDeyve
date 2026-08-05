@@ -1,6 +1,6 @@
 # Hey, I'm Dave 👋
 
-Frontend developer with 2 years of professional experience, building websites and mobile apps.<br>At work that's mostly Drupal with Twig, SCSS, JS.<br> In my own projects it's React, React Native, Tauri.
+Frontend focused developer with 2 years of professional experience, building websites and mobile apps.<br>At work that's mostly Drupal with Twig, SCSS, JS.<br> In my own projects it's React, React Native, Tauri.
 
 ## Tech Stack
 
