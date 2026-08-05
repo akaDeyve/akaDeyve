@@ -57,8 +57,8 @@ Frontend developer with 2 years of professional experience, building websites an
 ## Currently
 
 - Working on a Discord analytics bot with a small web interface
-- Improving my Stack
-- learning Tauri
+- Improving my current stack skills
+- learning Tauri 2.0
 
 ## Fun facts
 
