@@ -28,7 +28,10 @@ Frontend developer with 2 years of professional experience, building websites an
 
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) (Drupal Only)
+
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) 
+(Drupal Only)
 
 *Experience with*
 
