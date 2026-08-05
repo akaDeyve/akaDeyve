@@ -48,7 +48,7 @@ Frontend developer with 2 years of professional experience, building websites an
 
 ![Kirby CMS](https://img.shields.io/badge/Kirby_CMS-000000?style=flat)
 ![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat&logo=opencode&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-white?style=flat&logo=ollama&logoColor=black)
 
 
 ## Currently
