@@ -1,6 +1,7 @@
 # Hey, I'm Dave 👋
 
-Frontend developer with 2 years of professional experience, building websites and mobile apps. At work that's mostly Drupal with Twig, in my own projects it's React and React Native.
+Frontend developer with 2 years of professional experience, building websites and mobile apps. At work that's mostly Drupal with Twig, SCSS, JS.
+In my own projects it's React, React Native, Tauri.
 
 ## Tech Stack
 
