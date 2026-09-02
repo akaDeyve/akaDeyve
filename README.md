@@ -45,10 +45,10 @@ Frontend focused developer with 2 years of professional experience, building web
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 *Experience with*
 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Kirby CMS](https://img.shields.io/badge/Kirby_CMS-000000?style=flat)
 ![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat&logo=opencode&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-white?style=flat&logo=ollama&logoColor=black)
@@ -58,9 +58,7 @@ Frontend focused developer with 2 years of professional experience, building web
 
 - Working on a Discord analytics bot with a small web interface
 - Improving my current stack skills
-- learning Tauri 2.0
 
-## Fun facts
+## Fun fact
 
-- I use AI tools like OpenCode and local LLMs to speed up repetitive tasks while keeping the final decisions and code quality in my hands.
 - Cat person 🐱
