@@ -47,7 +47,17 @@ Frontend focused developer with 2 years of professional experience, building web
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Kirby CMS](https://img.shields.io/badge/Kirby_CMS-000000?style=flat)
-![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat&logo=opencode&logoColor=white)
+
+
+**AI Tools**
+
+*Main Stack*
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+
+*Experience with*
+
+![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=flat&logo=mistralai&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-white?style=flat&logo=ollama&logoColor=black)
 
 
