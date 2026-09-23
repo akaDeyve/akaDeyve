@@ -1,7 +1,7 @@
 # Hey, I'm Dave 👋
 
 Frontend developer with 2 years of professional experience, mainly building and maintaining Drupal themes for sites with a combined 100k+ organic monthly visitors.<br>
-At work that's Drupal theming with Twig, SCSS, JS, plus small custom modules and forms in PHP.<br>
+At work that's Drupal theming with Twig, SCSS, JS, plus small custom modules and custom forms in PHP.<br>
 In my own projects it's React, React Native.
 
 ## Tech Stack
