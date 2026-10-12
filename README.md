@@ -1,8 +1,8 @@
 # Hey, I'm Dave 👋
 
-Frontend developer with 2 years of professional experience, mainly building and maintaining Drupal themes for sites with a combined 100k+ organic monthly visitors.<br>
+Frontend developer with 2 years of professional experience, mainly maintaining Drupal themes for sites with a combined 100k+ organic monthly visitors.<br>
 At work that's Drupal theming with Twig, SCSS, JS, plus small custom modules and custom forms in PHP.<br>
-In my own projects it's React, React Native.
+In my own projects i use often React.
 
 ## Tech Stack
 
@@ -20,8 +20,6 @@ In my own projects it's React, React Native.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
 
 ### Backend & Databases
 
