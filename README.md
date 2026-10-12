@@ -40,11 +40,9 @@ In my own projects i use often React.
 ![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=flat&logo=drupal&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 *Experience with*
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Kirby CMS](https://img.shields.io/badge/Kirby_CMS-000000?style=flat)
 
 ### AI Tools
@@ -64,7 +62,6 @@ In my own projects i use often React.
 
 ## Currently
 
-- Working on a small web interface for my [Discord analytics bot](https://github.com/akaDeyve/giraffe-discord-bot)
 - Improving my current stack skills
 
 ## Fun fact
