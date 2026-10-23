@@ -11,8 +11,8 @@ In my own projects i use often React.
 *Main Stack*
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Twig](https://img.shields.io/badge/Twig-334155?style=flat&logo=twig&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Twig](https://img.shields.io/badge/Twig-3D6A06?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNDkgMjQ5Ij48ZyBmaWxsPSIjZmZmIj48cGF0aCBkPSJNMTExLjk3NCAyMDQuMzQxaDIyLjc1Yy0xLjM4OS0yOS41NjItOS45OTItMTIzLjg3NS0yNC41LTE4Mi41IDIuNjI1IDQwLjI1IDUuNSAxNzQgMS43NSAxODIuNXoiLz48cGF0aCBkPSJNMTExLjM0OSAyMjEuNTkxbDE0LjM3NS42MjVjLjM0NC0yNy44OTEtOS43NS03Ni4xMjUtMzcuMjUtOTQuODc1IDE0IDE3LjM3NSAyNC4xMjUgMzguNjI1IDIyLjg3NSA5NC4yNXoiLz48cGF0aCBkPSJNMTM4LjY2MiAyMjIuNTI4Yy40NDYgMi4wMDEtMTQuMzc1IDMuNDM4LTE0Ljg3NSAzcy0xMC43NS02OC44NzUgMzcuNDM4LTYyYy0yNi4xMjYgMS4xMjUtMjguMTI1IDM2LjkzOC0yMi41NjMgNTl6Ii8+PC9nPjxjaXJjbGUgZmlsbD0iIzNENkEwNiIgY3g9IjExOC43NDUiIGN5PSIxOTAuMDQ0IiByPSIzLjc5NyIvPjxjaXJjbGUgZmlsbD0iIzNENkEwNiIgY3g9IjEyOC4yNzYiIGN5PSIxOTAuMDQ0IiByPSIzLjc5NyIvPjwvc3ZnPgo=)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
