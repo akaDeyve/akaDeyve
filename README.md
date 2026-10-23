@@ -43,7 +43,7 @@ In my own projects i use often React.
 
 *Experience with*
 
-![Kirby CMS](https://img.shields.io/badge/Kirby_CMS-000000?style=flat)
+![Kirby](https://img.shields.io/badge/Kirby-FFFFFF?style=flat&logo=kirby&logoColor=black)
 
 ### AI Tools
 
