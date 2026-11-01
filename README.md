@@ -54,7 +54,6 @@ In my own projects i use often React.
 *Experience with*
 
 ![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=flat&logo=mistralai&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-white?style=flat&logo=ollama&logoColor=black)
 
 ## Projects
 
