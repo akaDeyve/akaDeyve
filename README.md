@@ -1,6 +1,6 @@
 # Hey, I'm Dave 👋
 
-I'm a frontend developer with 2 years of professional experience, mostly looking after Drupal themes for sites that together bring in over 100k organic visitors a month. Day to day that means theming with Twig, SCSS and JavaScript, writing the occasional custom module or form in PHP, and taking sites through their major upgrades from Drupal 9 to 10 and on to 11.
+I'm a frontend driven developer with 2 years of professional experience, mostly looking after Drupal themes for sites that together bring in over 100k organic visitors a month. Day to day that means theming with Twig, SCSS and JavaScript, writing the occasional custom module or form in PHP, and taking sites through their major upgrades from Drupal 9 to 10 and on to 11.
 
 Outside of work I usually reach for React. I also like making my own work easier and more effective, so when a tool I need doesn't exist, I build it myself but sometimes I may decide to keep maintaining them and publish them properly.
 
