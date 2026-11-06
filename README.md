@@ -1,8 +1,8 @@
 # Hey, I'm Dave 👋
 
-Frontend developer with 2 years of professional experience, mainly maintaining Drupal themes for sites with a combined 100k+ organic monthly visitors.<br>
-At work that's Drupal theming with Twig, SCSS, JS, plus small custom modules and custom forms in PHP.<br>
-In my own projects i use often React.
+I'm a frontend developer with 2 years of professional experience, mostly looking after Drupal themes for sites that together bring in over 100k organic visitors a month. Day to day that means theming with Twig, SCSS and JavaScript, writing the occasional custom module or form in PHP, and taking sites through their major upgrades from Drupal 9 to 10 and on to 11.
+
+Outside of work I usually reach for React. I also like making my own work easier and more effective, so when a tool I need doesn't exist, I build it myself. That's how my Firefox extensions came about. Right now they're tools I built for myself, but I may decide to keep maintaining them and publish them properly.
 
 ## Tech Stack
 
@@ -57,7 +57,15 @@ In my own projects i use often React.
 
 ## Projects
 
-- Drupal Demosite & Firefox developer extensions coming soon
+### Firefox Extensions
+
+- **[DOM Picker für LLM](https://github.com/akaDeyve/firefox-dom-picker)**: Pick an element in Firefox and paste its context into your LLM.
+- **[Lightfox](https://github.com/akaDeyve/light-fox)**: Lighthouse-style audits (Performance, Accessibility, Best Practices), native to Firefox.
+
+### Coming soon
+
+- Drupal Demosite
+- KirbyCMS Demosite
 
 ## Currently
 
