@@ -51,10 +51,6 @@ Outside of work I usually reach for React. I also like making my own work easier
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 
-*Experience with*
-
-![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=flat&logo=mistralai&logoColor=white)
-
 ## Projects
 
 ### Firefox Extensions
@@ -74,3 +70,4 @@ Outside of work I usually reach for React. I also like making my own work easier
 ## Fun fact
 
 - Cat person 🐱
+- Has a small Homelab 🔌
