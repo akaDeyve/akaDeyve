@@ -40,16 +40,11 @@ Outside of work I usually reach for React. I also like making my own work easier
 ![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=flat&logo=drupal&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 
 *Experience with*
 
 ![Kirby](https://img.shields.io/badge/Kirby-FFFFFF?style=flat&logo=kirby&logoColor=black)
-
-### AI Tools
-
-*Main Stack*
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 
 ## Projects
 
